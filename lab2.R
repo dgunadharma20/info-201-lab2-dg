@@ -14,5 +14,4 @@ library(stringr)
 
 # Create a vector `numbers` that is the numbers 1 through 100
 
-# Create a vector called `larger_than_22` to store the numbers from your `numbers` 
-# vector that are larger than 22
+# Multiply all elements greater than 22 of the `numbers` vector with 2
