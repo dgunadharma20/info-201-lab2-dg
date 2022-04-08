@@ -21,7 +21,7 @@ library(stringr)
 # `last_name` is a character,
 # `net_id` is a numeric,
 # `favorite_courses` includes the courses vector you created previously,
-# `eligble_registration` is a logical 
+# `eligible_registration` is a logical 
 # give each element a value based off of yourselves
 
 # Now, create a list without any tagged elements but give in the same values you gave for the previous list
