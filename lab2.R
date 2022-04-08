@@ -16,11 +16,12 @@ library(stringr)
 
 # Multiply all elements greater than 22 of the `numbers` vector with 2
 
-# Create a list `student` that has four tagged elements, `first_name`, `last_name`, `net_id` and `eligble_registration` where, 
+# Create a list `student` that has four tagged elements, `first_name`, `last_name`, `net_id`, `favorite_courses` and `eligble_registration` where, 
 # `first_name` is a character, 
 # `last_name` is a character,
 # `net_id` is a numeric,
+# `favorite_courses` includes the courses vector you created previously,
 # `eligble_registration` is a logical 
 # give each element a value based off of yourselves
 
-# Now, create a list without any tagged elements but give in the same values you gave for the previous problem
+# Now, create a list without any tagged elements but give in the same values you gave for the previous list
