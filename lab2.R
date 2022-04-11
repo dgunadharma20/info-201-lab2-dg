@@ -6,10 +6,10 @@ library(stringr)
 # calculated number of quarters, dimes, nickles, and pennies on one line
 # hint: use the module operator
 
-# Create a function `num_tries` that returns the number of tries it takes to randomly generate the number that it takes in as an argument
-# number range (1-100)
-
 # Create a vector `courses` that contains the names of 6 of your most favorite courses taken at UW in the format of "INFO 201"
+
+# Create a function `check_course` that returns true or false whether or not the character argument is included in 
+# your courses vector 
 
 ## Write a function `replace_spaces` that will replace all spaces
 ## from all elements in your vector of courses with a hyphen "-"
