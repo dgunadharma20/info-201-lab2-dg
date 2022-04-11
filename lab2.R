@@ -8,7 +8,7 @@ library(stringr)
 
 # Create a vector `courses` that contains the names of 6 of your most favorite courses taken at UW in the format of "INFO 201"
 
-## Write a function `replace_spaces` that will remove all spaces
+## Write a function `replace_spaces` that will replace all spaces
 ## from all elements in your vector of courses with a hyphen "-"
 
 # Create a vector `numbers` that is the numbers 1 through 100
