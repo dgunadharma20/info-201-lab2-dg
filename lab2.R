@@ -13,7 +13,7 @@ library(stringr)
 
 # Create a vector `numbers` that is the numbers 1 through 100
 
-# Iterate through your vector of numbers to find the sum of all the numbers, use a for loop
+# Create a function `get_sum` that would iterate through a vector of numbers to find the sum of all the numbers
 
 # Create a list `student` that has four tagged elements, `first_name`, `last_name`, `net_id`, `favorite_courses` and `eligble_registration` where, 
 # `first_name` is a character, 
