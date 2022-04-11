@@ -15,8 +15,6 @@ library(stringr)
 
 # Iterate through your vector of numbers to find the sum of all the numbers, use a for loop
 
-# Multiply all elements greater than 22 of the `numbers` vector with 2
-
 # Create a list `student` that has four tagged elements, `first_name`, `last_name`, `net_id`, `favorite_courses` and `eligble_registration` where, 
 # `first_name` is a character, 
 # `last_name` is a character,
