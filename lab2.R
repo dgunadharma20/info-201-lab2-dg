@@ -7,6 +7,7 @@ library(stringr)
 # hint: use the module operator
 
 # Create a function `num_tries` that returns the number of tries it takes to randomly generate the number that it takes in as an argument
+# number range (1-100)
 
 # Create a vector `courses` that contains the names of 6 of your most favorite courses taken at UW in the format of "INFO 201"
 
