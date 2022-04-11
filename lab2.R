@@ -11,8 +11,9 @@ library(stringr)
 ## Write a function `replace_spaces` that will remove all spaces
 ## from all elements in your vector of courses with a hyphen "-"
 
-
 # Create a vector `numbers` that is the numbers 1 through 100
+
+# Iterate through your vector of numbers to find the sum of all the numbers, use a for loop
 
 # Multiply all elements greater than 22 of the `numbers` vector with 2
 
